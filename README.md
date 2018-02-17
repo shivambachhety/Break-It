@@ -1,2 +1,2 @@
 # Break-It
-A brick game in C
+My first Game in C using graphic library
